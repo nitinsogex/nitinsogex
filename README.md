@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Nitin! 👋
 
-<!--
-**nitinsogex/nitinsogex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BCS 3rd Year Student**  
+💻 Learning the basics of C, C++, Python, HTML & CSS  
+🌱 Always eager to learn and develop new skills
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> “The expert in anything was once a beginner.”  
+> — Helen Hayes
+
+---
+
+## 🚀 About Me
+
+I'm an enthusiastic student passionate about technology and programming. Currently, I'm building my foundation by learning the basics of C, C++, Python, HTML, and CSS. While I may not have mastered any skill yet, I'm committed to continuous learning and growth every day!
+
+## 🎧 Hobbies
+
+- Enjoy listening to music while coding or relaxing
+
+## 📈 GitHub Stats
+
+![Nitin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitinsogex&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitinsogex&layout=compact&theme=radical)
+
+---
+
+Thanks for visiting my profile! 😊  
+Let's keep learning and growing together.
