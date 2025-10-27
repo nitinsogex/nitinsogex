@@ -28,3 +28,9 @@ I'm an enthusiastic student passionate about technology and programming. Current
 
 Thanks for visiting my profile! 😊  
 Let's keep learning and growing together.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake-dark.svg" />
+</picture>
