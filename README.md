@@ -22,11 +22,9 @@ I'm an enthusiastic student passionate about technology and programming. Current
 ## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/nitinsogex">
-    <img src="https://github-readme-stats.vercel.app/api?username=nitinsogex&show_icons=true&theme=radical&rank_icon=github" alt="Nitin's GitHub Stats" width="49%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinsogex&theme=radical" alt="GitHub Streak" width="49%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinsogex&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=nitinsogex&show_icons=true&theme=radical" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinsogex&layout=compact&theme=radical" width="45%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitinsogex&theme=radical" width="98%" alt="Profile Summary" />
 </p>
 
 ---
