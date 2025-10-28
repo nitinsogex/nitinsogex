@@ -21,8 +21,13 @@ I'm an enthusiastic student passionate about technology and programming. Current
 
 ## 📈 GitHub Stats
 
-![Nitin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitinsogex&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitinsogex&layout=compact&theme=radical)
+<p align="center">
+  <a href="https://github.com/nitinsogex">
+    <img src="https://github-readme-stats.vercel.app/api?username=nitinsogex&show_icons=true&theme=radical&rank_icon=github" alt="Nitin's GitHub Stats" width="49%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinsogex&theme=radical" alt="GitHub Streak" width="49%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinsogex&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
+  </a>
+</p>
 
 ---
 
